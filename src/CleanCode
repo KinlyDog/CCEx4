@@ -25,13 +25,13 @@
 9. tableInt - decCode
 // табличные коды в десятичной системе (28, 10)
 
-10. len - maxLenNum
+10. len - lenNumMax
 // максимальная длина числа (28, 11)
 
-11. sum - sumOfAllVotes
+11. sum - allVotesSum
 // сумма всех голосов участников (28, 12)
 
-12. max - maxVotesPerPerson
+12. max - votesPerPersonMax
 // максимальное количество голосов за одного человека (28, 12)
 
 13. num - personNumber
